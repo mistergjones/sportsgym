@@ -2,7 +2,7 @@ import React from "react";
 
 export default function YoutubeSection() {
     return (
-        <div>
+        <div className="container">
             <div className="px-4 pt-5 my-5 text-center border-bottom">
                 <h1 className="display-4 fw-bold">Centered screenshot</h1>
                 <div className="col-lg-6 mx-auto">
@@ -34,8 +34,8 @@ export default function YoutubeSection() {
                             src={require("../Assets/gym4.jpg")}
                             className="img-fluid border rounded-3 shadow-lg mb-4"
                             alt="Example image"
-                            width="700"
-                            height="500"
+                            width="1000"
+                            height="300"
                             loading="lazy"
                         />
                     </div>

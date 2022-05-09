@@ -3,8 +3,8 @@ import StarRating from "./StarRating";
 
 export default function Testimonial() {
     return (
-        <div>
-            <div className="px-4 pt-5 my-5 text-center border-bottom">
+        <div className="container border-bottom">
+            <div className="px-4 pt-5 my-5 text-center">
                 <h1 className="display-4 fw-bold">Great Feedback</h1>
                 <div className="col-lg-6 mx-auto">
                     <p className="lead mb-4">
