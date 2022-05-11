@@ -1,11 +1,17 @@
 import React from "react";
+import LoginForm from "../../Components/forms/LoginForm";
 
 export default function login() {
     return (
         <div>
-            <h3>Login</h3>
-            <h3>Login</h3>
-            <h3>Login</h3>
+            <div className="full-page border-bottom">
+                <img
+                    src={require("../../Assets/membership/membershipoptions.jpg")}
+                    alt=""
+                />
+
+                <LoginForm />
+            </div>
         </div>
     );
 }

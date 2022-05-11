@@ -10,20 +10,6 @@ export default function Testimonial() {
                     <p className="lead mb-4">
                         See what our members say about our gym!
                     </p>
-                    <div className="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-                        <button
-                            type="button"
-                            className="btn btn-primary btn-lg px-4 me-sm-3"
-                        >
-                            Primary button
-                        </button>
-                        <button
-                            type="button"
-                            className="btn btn-outline-secondary btn-lg px-4"
-                        >
-                            Secondary
-                        </button>
-                    </div>
                 </div>
 
                 <div className="row row-cols-1 row-cols-md-3 g-4">

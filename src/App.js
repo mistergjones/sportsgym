@@ -44,6 +44,7 @@ import Spa from "./pages/aquatics/spa";
 import Steamroom from "./pages/aquatics/steamroom";
 
 import Contactus from "./pages/contactus/contactus";
+import Location from "./pages/contactus/location";
 
 // import FixedHeader from "./Components/FixedHeader";
 // import Carousel from "./Components/Carousel";
@@ -101,6 +102,7 @@ function App() {
                         <Route path="steamroom" element={<Steamroom />} />
 
                         <Route path="contactus" element={<Contactus />} />
+                        <Route path="location" element={<Location />} />
 
                         {/* <Route path="Features" element={<Features />} />
                         <Route path="pricing" element={<Pricing />} />
