@@ -3,11 +3,7 @@ import React from "react";
 export default function ClassesCard(props) {
     return (
         <div className="card h-100">
-            <img
-                src={require("../../Assets/classes/wateraerobics.jpg")}
-                className="card-img-top"
-                alt="..."
-            />
+            <img src={props.image} className="card-img-top" alt="..." />
 
             <div className="card-body">
                 <h5 className="card-title">{props.title}</h5>

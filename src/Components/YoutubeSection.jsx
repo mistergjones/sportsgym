@@ -4,8 +4,8 @@ export default function YoutubeSection() {
     return (
         <div className="container">
             <div className="px-4 pt-5 my-5 text-center border-bottom">
-                <h1 className="display-4 fw-bold">Centered screenshot</h1>
-                <div className="col-lg-6 mx-auto">
+                <h1 className="display-4 fw-bold">Welcome to Power Gym</h1>
+                <div className="col-lg-12 mx-auto">
                     <p className="lead mb-4">
                         Quickly design and customize responsive mobile-first
                         sites with Bootstrap, the world’s most popular front-end

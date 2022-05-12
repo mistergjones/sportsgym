@@ -9,6 +9,11 @@ const Layout = () => {
                         href="/"
                         className="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none"
                     >
+                        <img
+                            className="logo-height"
+                            src={require("../Assets/powergymlogo.png")}
+                            alt=""
+                        />
                         <svg
                             className="bi me-2"
                             width="40"

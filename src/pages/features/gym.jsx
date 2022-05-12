@@ -16,8 +16,10 @@ export default function gym() {
                     alt=""
                 />
                 <div className="centered">
-                    <h3>GYM</h3>
-                    <h3>EQUIPMENT | STUDIOS | CYCLE | SPACE</h3>
+                    <h3 className="hero-image-title">GYM</h3>
+                    <h3 className="hero-image-description">
+                        EQUIPMENT | STUDIOS | CYCLE | SPACE
+                    </h3>
                 </div>
 
                 <section>

@@ -36,12 +36,15 @@ export default function Carousel() {
                         className="d-block w-100"
                         alt="..."
                     />
+
                     <div className="carousel-caption d-none d-md-block">
-                        <h5>First slide label</h5>
-                        <p>
-                            Some representative placeholder content for the
-                            first slide.
-                        </p>
+                        <div className="banner">
+                            <div className="leftSide">POWER</div>
+                            <div className="rightSide">GYM</div>
+                        </div>
+                        <span className="carousel-color">
+                            &nbsp;Your Friendly Local Gym!&nbsp;
+                        </span>
                     </div>
                 </div>
                 <div className="carousel-item">
@@ -51,11 +54,13 @@ export default function Carousel() {
                         alt="..."
                     />
                     <div className="carousel-caption d-none d-md-block">
-                        <h5>Second slide label</h5>
-                        <p>
-                            Some representative placeholder content for the
-                            second slide.
-                        </p>
+                        <div className="banner">
+                            <div className="leftSide">POWER</div>
+                            <div className="rightSide">GYM</div>
+                        </div>
+                        <span className="carousel-color">
+                            &nbsp;Achieve your goals!&nbsp;
+                        </span>
                     </div>
                 </div>
                 <div className="carousel-item">
@@ -65,11 +70,13 @@ export default function Carousel() {
                         alt="..."
                     />
                     <div className="carousel-caption d-none d-md-block">
-                        <h5>Third slide label</h5>
-                        <p>
-                            Some representative placeholder content for the
-                            third slide.
-                        </p>
+                        <div className="banner">
+                            <div className="leftSide">POWER</div>
+                            <div className="rightSide">GYM</div>
+                        </div>
+                        <span className="carousel-color">
+                            &nbsp;Great Classes! Great Environment!&nbsp;
+                        </span>
                     </div>
                 </div>
             </div>

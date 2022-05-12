@@ -35,3 +35,74 @@ section > p {
     margin-right: 5rem;
     text-align: left;
 }
+
+.powergym {
+    font-size: 4rem;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+}
+
+/* USED FOR THE POWER GYM */
+
+.logo-height {
+    height: 4rem;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+}
+
+.leftSide {
+    font-family: "Saira Stencil One", cursive;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: red;
+    color: white;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+.rightSide {
+    font-family: "Saira Stencil One", cursive;
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: white;
+    color: red;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.carousel-color {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border-bottom-left-radius: 1%;
+    border-top-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+    border-top-right-radius: 1%;
+}
+
+.hero-image-title {
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+}
+
+.hero-image-description {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+}

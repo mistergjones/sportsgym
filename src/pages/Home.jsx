@@ -10,7 +10,12 @@ export default function Home() {
             <br></br>
             <br></br>
             <br></br>
-            <h3>Home</h3>
+            {/* <h3 className="mt-4 mb-4">
+                <div className="banner">
+                    <div className="leftSide">POWER</div>
+                    <div className="rightSide">GYM</div>
+                </div>
+            </h3> */}
             <Carousel />
 
             <YoutubeSection />

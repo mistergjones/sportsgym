@@ -7,7 +7,6 @@ export default function nutrition() {
         <div>
             <h3>Nutrious Meals</h3>
             <h3>Nutrious Meals</h3>
-            <h3>Nutrious Meals</h3>
 
             <div className="full-page border-bottom">
                 <img
@@ -15,34 +14,40 @@ export default function nutrition() {
                     alt=""
                 />
                 <div className="centered">
-                    <h3>NUTRITIOUS MEALS</h3>
-                    <h3>STAY ON TRACK</h3>
+                    <h3 className="hero-image-title">NUTRITIOUS MEALS</h3>
+                    <h3 className="hero-image-description">STAY ON TRACK</h3>
                 </div>
 
                 <section>
-                    <h3>
-                        Membership and casual options designed just for you.
-                    </h3>
+                    <h3>Pre-packed nutritous meals</h3>
                     <p>
-                        We offer all different sorts of membership so that you
-                        only pay for what you use. Come in and speak to one of
-                        our expert membership consultants. We can help you find
-                        the best way to find out what sort of membership is best
-                        for you and your intended results.
+                        Our gym also provides pre-packs nutritious meals that
+                        are designed for a varitey of dietary goals. If you
+                        require more protein based meals or require a more
+                        vegetarian based meal, we have you covered!
+                    </p>
+                    <p>
+                        All meals display the calorie, protein and mineral
+                        information to make life easy for you.
                     </p>
                 </section>
 
                 <MosaicLeft
-                    image={require("../../Assets/features/supplements2.jpg")}
-                    title="Pre Workout"
-                    paragraph1="For less than a movie night out or a great cocktail you get 24/7 access to our gym facilities EACH WEEK! We offer Express Circuit, Hammer Strength and Life Fitness equipment, huge cardio zone and much more. "
-                    paragraph2="For a few dollars extra, add an entire week of live and virtual classes, infrared sauna, childcare, pool, steam room and spa. All our memberships include free parking, complimentary wifi and locker use. Tailor your membership so you pay only for what you use."
+                    image={require("../../Assets/features/healthymeals1.jpg")}
+                    title="Why a healthy diet?"
+                    paragraph1="It protects you against many chronic noncommunicable diseases, such as heart disease, diabetes and cancer. Eating a variety of foods and consuming less salt, sugars and saturated and industrially-produced trans-fats, are essential for healthy diet."
+                    paragraph2="A balanced diet supplies the nutrients your body needs to work effectively. Without balanced nutrition, your body is more prone to disease, infection, fatigue, and low performance.
+
+                   "
                 />
                 <MosaicRight
-                    image={require("../../Assets/features/supplements1.jpg")}
-                    title="Post Workout"
-                    paragraph1="We want kids to fall in love with being active from a young age."
-                    paragraph2="That’s why we developed our youth membership, making it easier to educate children about the importance of health, fitness and wellness. We offer specialised memberships for our under 18’s with restricted staffed hours access."
+                    image={require("../../Assets/features/healthymeals2.jpg")}
+                    title="Educating Children about a healthy diet"
+                    paragraph1="We want kids to fall in love with being active from a young age and also having a great understanding in the importance of a balanced diet. Children who don’t get enough healthy foods may face growth and developmental problems, poor academic performance, and frequent infections.
+                    
+                    They can also develop unhealthy eating habits that may persist into adulthood."
+                    paragraph2="
+                    Without exercise, they’ll also have a higher risk of obesity and various diseases that make up metabolic syndrome, such as type 2 diabetes and high blood pressure. If you're a parent and join our gym, you will instantly understand how important a balanced diet is for everyone. "
                 />
             </div>
         </div>
