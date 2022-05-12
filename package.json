@@ -1,6 +1,6 @@
 {
+    "homepage": "mistergjones.github.io/sportsgym/",
     "name": "sportsgym",
-    "homepage": "https://github.com/mistergjones/sportsgym/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
