@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mistergjones/sportsgym/static/css/main.e77d0370.css",
-    "main.js": "/mistergjones/sportsgym/static/js/main.2e8a0fa2.js",
+    "main.js": "/mistergjones/sportsgym/static/js/main.2fb83526.js",
     "static/media/rpm.png": "/mistergjones/sportsgym/static/media/rpm.1c36c5456572c851326c.png",
     "static/media/poollane.jpg": "/mistergjones/sportsgym/static/media/poollane.eec5470e8b2d572fb845.jpg",
     "static/media/zumba.png": "/mistergjones/sportsgym/static/media/zumba.0ef1552195f72359c4a3.png",
@@ -58,10 +58,10 @@
     "static/media/wateraerobics.jpg": "/mistergjones/sportsgym/static/media/wateraerobics.d68820d1f72ebb923b4c.jpg",
     "index.html": "/mistergjones/sportsgym/index.html",
     "main.e77d0370.css.map": "/mistergjones/sportsgym/static/css/main.e77d0370.css.map",
-    "main.2e8a0fa2.js.map": "/mistergjones/sportsgym/static/js/main.2e8a0fa2.js.map"
+    "main.2fb83526.js.map": "/mistergjones/sportsgym/static/js/main.2fb83526.js.map"
   },
   "entrypoints": [
     "static/css/main.e77d0370.css",
-    "static/js/main.2e8a0fa2.js"
+    "static/js/main.2fb83526.js"
   ]
 }
