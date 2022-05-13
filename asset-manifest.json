@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sportsgym/static/css/main.e77d0370.css",
-    "main.js": "/sportsgym/static/js/main.8077ba98.js",
+    "main.css": "/sportsgym/static/css/main.b175e2b1.css",
+    "main.js": "/sportsgym/static/js/main.dc7a06cb.js",
     "static/media/rpm.png": "/sportsgym/static/media/rpm.1c36c5456572c851326c.png",
     "static/media/poollane.jpg": "/sportsgym/static/media/poollane.eec5470e8b2d572fb845.jpg",
     "static/media/zumba.png": "/sportsgym/static/media/zumba.0ef1552195f72359c4a3.png",
@@ -57,11 +57,11 @@
     "static/media/challenge4.jpg": "/sportsgym/static/media/challenge4.041924b8fc6a584e70a4.jpg",
     "static/media/wateraerobics.jpg": "/sportsgym/static/media/wateraerobics.d68820d1f72ebb923b4c.jpg",
     "index.html": "/sportsgym/index.html",
-    "main.e77d0370.css.map": "/sportsgym/static/css/main.e77d0370.css.map",
-    "main.8077ba98.js.map": "/sportsgym/static/js/main.8077ba98.js.map"
+    "main.b175e2b1.css.map": "/sportsgym/static/css/main.b175e2b1.css.map",
+    "main.dc7a06cb.js.map": "/sportsgym/static/js/main.dc7a06cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77d0370.css",
-    "static/js/main.8077ba98.js"
+    "static/css/main.b175e2b1.css",
+    "static/js/main.dc7a06cb.js"
   ]
 }
