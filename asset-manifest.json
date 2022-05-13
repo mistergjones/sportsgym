@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.e77d0370.css",
-    "main.js": "./static/js/main.f7a52e3b.js",
+    "main.js": "./static/js/main.c8558149.js",
     "static/media/rpm.png": "./static/media/rpm.1c36c5456572c851326c.png",
     "static/media/poollane.jpg": "./static/media/poollane.eec5470e8b2d572fb845.jpg",
     "static/media/zumba.png": "./static/media/zumba.0ef1552195f72359c4a3.png",
@@ -58,10 +58,10 @@
     "static/media/wateraerobics.jpg": "./static/media/wateraerobics.d68820d1f72ebb923b4c.jpg",
     "index.html": "./index.html",
     "main.e77d0370.css.map": "./static/css/main.e77d0370.css.map",
-    "main.f7a52e3b.js.map": "./static/js/main.f7a52e3b.js.map"
+    "main.c8558149.js.map": "./static/js/main.c8558149.js.map"
   },
   "entrypoints": [
     "static/css/main.e77d0370.css",
-    "static/js/main.f7a52e3b.js"
+    "static/js/main.c8558149.js"
   ]
 }
