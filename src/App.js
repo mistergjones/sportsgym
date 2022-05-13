@@ -54,6 +54,7 @@ import Location from "./pages/contactus/location";
 // import Footer from "./Components/Footer";
 
 function App() {
+    const path = process.env.REACT_APP_FOR_PATH;
     return (
         <div className="App">
             <Router>
