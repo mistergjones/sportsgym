@@ -6,9 +6,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function corporate() {
     return (
         <div>
-            <h3>Corptorate</h3>
-            <h3>Corptorate</h3>
-            <h3>Corptorate</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page border-bottom">
                 <img

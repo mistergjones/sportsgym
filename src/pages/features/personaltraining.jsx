@@ -5,9 +5,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function personaltraining() {
     return (
         <div>
-            <h3>Personal Training</h3>
-            <h3>Personal Training</h3>
-            <h3>Personal Training</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page">
                 <img

@@ -6,9 +6,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function casual() {
     return (
         <div>
-            <h3>Casual</h3>
-            <h3>Casual</h3>
-            <h3>Casual</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page border-bottom">
                 <img

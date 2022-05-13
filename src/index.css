@@ -90,10 +90,10 @@ section > p {
     font-weight: bold;
     background-color: red;
     color: white;
-    border-bottom-left-radius: 5%;
-    border-top-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    border-top-right-radius: 5%;
+    border-bottom-left-radius: 2%;
+    border-top-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+    border-top-right-radius: 2%;
 }
 
 .hero-image-description {
@@ -101,8 +101,23 @@ section > p {
     font-weight: bold;
     background-color: red;
     color: white;
-    border-bottom-left-radius: 5%;
-    border-top-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    border-top-right-radius: 5%;
+    border-bottom-left-radius: 2%;
+    border-top-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+    border-top-right-radius: 2%;
+}
+
+section > h3 {
+    font-family: "Saira Stencil One", cursive;
+    font-size: 1.8rem;
+    background-color: red;
+    color: white;
+    width: 99%;
+    margin: 0 auto;
+}
+h3 {
+    font-family: "Saira Stencil One", cursive;
+
+    background-color: red;
+    color: white;
 }

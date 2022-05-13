@@ -4,6 +4,9 @@ import "./aquatics.css";
 export default function pool() {
     return (
         <>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className="full-page border-bottom">
                 <img
                     src={require("../../Assets/aquatics/indoorpool.jpg")}

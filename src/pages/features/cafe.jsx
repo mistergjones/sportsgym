@@ -6,9 +6,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function cafe() {
     return (
         <div>
-            <h3>CAFE HERE</h3>
-            <h3>CAFE HERE</h3>
-            <h3>CAFE HERE</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page   ">
                 <img src={require("../../Assets/features/cafe.jpg")} alt="" />
@@ -21,7 +21,7 @@ export default function cafe() {
 
                 <section>
                     <h3>CAFE</h3>
-                    <p>
+                    <p className="m-2">
                         Need a space for you, your group, workplace or sports
                         group? We have multiple large group fitness studios and
                         lots of equipment for hire. Work out with your buddies,

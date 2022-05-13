@@ -4,9 +4,9 @@ import ClassesCard from "../../Components/Cards/ClassesCard";
 export default function classdescriptions() {
     return (
         <div>
-            <h3>Class Descriptions</h3>
-            <h3>Class Descriptions</h3>
-            <h3>Class Descriptions</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="container">
                 <div className="row mb-3">

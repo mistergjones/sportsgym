@@ -5,9 +5,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function membershipoptions() {
     return (
         <div>
-            <h3>Membership options</h3>
-            <h3>Membership options</h3>
-            <h3>Membership options</h3>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className="full-page">
                 <img
                     src={require("../../Assets/membership/membershipoptions.jpg")}

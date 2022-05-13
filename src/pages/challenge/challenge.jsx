@@ -11,9 +11,9 @@ import portrait4 from "../../Assets/challenge/portrait4.jpg";
 export default function challenge() {
     return (
         <div className="container">
-            <h3>8 week challenge</h3>
-            <h3>8 week challenge</h3>
-            <h3>8 week challenge</h3>
+            <br></br>
+            <br></br>
+            <br></br>
             <section>
                 <h3>TOP 3 REASONS PEOPLE CAN’T GET INTO SHAPE</h3>
                 <ul>

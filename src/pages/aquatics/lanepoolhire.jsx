@@ -3,6 +3,9 @@ import React from "react";
 export default function lanepoolhire() {
     return (
         <div>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className="full-page border-bottom">
                 <img
                     src={require("../../Assets/aquatics/lanepool.jpg")}

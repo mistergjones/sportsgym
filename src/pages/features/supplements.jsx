@@ -5,9 +5,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function supplements() {
     return (
         <div>
-            <h3>Supplentsn</h3>
-            <h3>Supplentsn</h3>
-            <h3>Supplentsn</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page border-bottom">
                 <img

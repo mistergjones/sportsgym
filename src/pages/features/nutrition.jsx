@@ -5,8 +5,9 @@ import MosaicRight from "../../Components/Mosaic/MosaicRight";
 export default function nutrition() {
     return (
         <div>
-            <h3>Nutrious Meals</h3>
-            <h3>Nutrious Meals</h3>
+            <br></br>
+            <br></br>
+            <br></br>
 
             <div className="full-page border-bottom">
                 <img

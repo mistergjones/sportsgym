@@ -9,6 +9,9 @@ import "./classes.css";
 export default function virtualclasses() {
     return (
         <>
+            <br></br>
+            <br></br>
+            <br></br>
             <div className="full-page">
                 <img
                     src={require("../../Assets/classes/virtualclasses.jpg")}
